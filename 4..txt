@@ -1,0 +1,17 @@
+Can you have a proof of work blockchain with a realtime difficulty adjustment? 
+Yes, you can have a Proof of Work blockchain with real-time difficulty adjustment, though it would come with its own set of advantages and limitations.
+
+
+Advantages: 
+The biggest advantage of real-time difficulty adjustment is that it can more closely ensure that blocks are mined at a consistent rate.
+Other advantages include being resilient against hashrate fluctuations, 
+preventing mining spikes or delays, 
+reducing perodic difficulty lags,
+incresed fairness for smaller miners.
+
+Limitations:
+Limitations include Increased network instability,
+more complex to implement,
+higher variability in block rewards,
+potential security risks,
+unpredictable confirmation times.
